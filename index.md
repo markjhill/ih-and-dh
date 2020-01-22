@@ -4,10 +4,8 @@
 **Time and location:** March 17th from 13.30 to 17.00 on the 1st floor of the National Library
 
 ### _Contact persons:_ ###
-Benjamin Martin, Uppsala University, Department of History of Science and Ideas
-benjamin.martin@idehist.uu.se
-Mark J. Hill, Helsinki University, Department of Digital Humanities
-mark.hill@helsinki.fi
+Benjamin Martin, Uppsala University, Department of History of Science and Ideas (benjamin.martin@idehist.uu.se)
+Mark J. Hill, Helsinki University, Department of Digital Humanities (mark.hill@helsinki.fi)
 
 ## Workshop Description ##
 
@@ -15,10 +13,10 @@ A growing number of historians are exploring ways of bringing digital methods to
 
 In this workshop, we bring together an international group of historians actively engaged with these questions for a half-day of presentations, discussion and debate, focusing on four themes:
 
-### 1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion ###
-### 2. Networking Intellectual History: Digital network analysis for historians of science and ideas ###
-### 3. (Digital) History of Concepts: How are digital methods changing conceptual history? ###
-### 4. How To Do It: Models of collaboration between intellectual historians and data scientists ###
+** 1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion **
+** 2. Networking Intellectual History: Digital network analysis for historians of science and ideas **
+** 3. (Digital) History of Concepts: How are digital methods changing conceptual history? **
+** 4. How To Do It: Models of collaboration between intellectual historians and data scientists **
 
 Discussions of the use of digital methods in a particular humanistic field often become highly technical, with a focus on a particular practical problem or programming-related solution. In this workshop, by contrast, we will combine short presentations on on-going research with ample discussion, in a round-table format, designed to address broader issues about the significance and value of digital methods for the way intellectual historians pursue their field’s most important goals. 
 
