@@ -3,13 +3,13 @@
 
 **Time and location:** March 17th from 13.30 to 17.00 on the 1st floor of the National Library
 
-###_Contact persons:_###
+### _Contact persons:_ ###
 Benjamin Martin, Uppsala University, Department of History of Science and Ideas
 benjamin.martin@idehist.uu.se
 Mark J. Hill, Helsinki University, Department of Digital Humanities
 mark.hill@helsinki.fi
 
-##Workshop Description##
+## Workshop Description ##
 
 A growing number of historians are exploring ways of bringing digital methods to bear on questions of intellectual history, and such methods do seem to hold real promise for the field. At the same time, these exploratory efforts raise complex questions. How can essentially quantitative methods be made useful for the qualitative questions posed by historians of science and ideas? To what degree can or should intellectual historians simply adopt methods developed for the study of literature, or cultural sociology, or political theory? How should historians make use of and communicate findings made by algorithms that few readers (or fellow historians) understand? What exactly is gained by using DH for the study of intellectual history, and what risks getting lost? What models exist for collaboration between intellectual historians and data scientists, and how can these be improved?
 
