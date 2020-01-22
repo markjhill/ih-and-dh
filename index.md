@@ -1,44 +1,64 @@
-## Intellectual History and the Digital Humanities: Prospects and Challenges
-# Workshop at DHN2020 (Riga, 16 March 2020)
+# Intellectual History and the Digital Humanities: Prospects and Challenges #
+## Workshop at DHN2020 (Riga, 17 March 2020) ##
 
-_Contact persons:_
+**Time and location:** March 17th from 13.30 to 17.00 on the 1st floor of the National Library
+
+###_Contact persons:_###
 Benjamin Martin, Uppsala University, Department of History of Science and Ideas
 benjamin.martin@idehist.uu.se
 Mark J. Hill, Helsinki University, Department of Digital Humanities
 mark.hill@helsinki.fi
 
-You can use the [editor on GitHub](https://github.com/markjhill/ih-and-dh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Workshop Description##
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A growing number of historians are exploring ways of bringing digital methods to bear on questions of intellectual history, and such methods do seem to hold real promise for the field. At the same time, these exploratory efforts raise complex questions. How can essentially quantitative methods be made useful for the qualitative questions posed by historians of science and ideas? To what degree can or should intellectual historians simply adopt methods developed for the study of literature, or cultural sociology, or political theory? How should historians make use of and communicate findings made by algorithms that few readers (or fellow historians) understand? What exactly is gained by using DH for the study of intellectual history, and what risks getting lost? What models exist for collaboration between intellectual historians and data scientists, and how can these be improved?
 
-### Markdown
+In this workshop, we bring together an international group of historians actively engaged with these questions for a half-day of presentations, discussion and debate, focusing on four themes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion###
+###2. Networking Intellectual History: Digital network analysis for historians of science and ideas###
+###3. (Digital) History of Concepts: How are digital methods changing conceptual history?###
+###4. How To Do It: Models of collaboration between intellectual historians and data scientists###
 
-```markdown
-Syntax highlighted code block
+Discussions of the use of digital methods in a particular humanistic field often become highly technical, with a focus on a particular practical problem or programming-related solution. In this workshop, by contrast, we will combine short presentations on on-going research with ample discussion, in a round-table format, designed to address broader issues about the significance and value of digital methods for the way intellectual historians pursue their field’s most important goals. 
 
-# Header 1
-## Header 2
-### Header 3
+We believe that intellectual history’s encounter with DH has lessons of relevance to a wide range of scholars and DH practitioners outside of the discipline. The interdisciplinary origins of the field of intellectual history, and its overlapping interests with those of literary scholars, political theorists, philosophers, and sociologists ofculture, mean that methodological (and practical) insights from intellectual history’s application of digital methods could make a substantial contribution to the future development of the digital humanities. The goal of our workshop is to begin to collect these insights. We aim to make contributions from this event available to a wide readership through a workshop website and, if circumstances permit, publication in a relevant journal.
 
-- Bulleted
-- List
+##Format##
 
-1. Numbered
-2. List
+The format of the workshop is as follows. After a brief welcome and introduction, the first session will be a round-table discussion. Sessions 2 and 3 will each include three 10-minute presentations, followed by a 15-minute discussion, to include members of the audience. Session 4 will return to the round-table format (see workshop schedule, below).
 
-**Bold** and _Italic_ and `Code` text
+In what follows, we present these four themes in more detail, and outline the workshop program.
 
-[Link](url) and ![Image](src)
-```
+###1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion###
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Panelists: Joris van Eijnatten, Utrecht University; Mark Hill, University of Helsinki; Silke Schwandt, Bielefeld University Moderator: Benjamin Martin, Uppsala University
 
-### Jekyll Themes
+By now, all humanistic fields are affected by the digital revolution, but they are not all affected in the same way. What are the particular features of intellectual history’s encounter with digital sources, digital methods, and the emerging theories, practices, and communities of the digital humanities? How can the research practices of the digital humanities address the existing research agendas of intellectual historians? To what degree is DH stimulating the development of new agendas? In short, what good is DH for intellectual history? What, in turn, do intellectual historians have to offer the broader DH community? In this round-table discussion, participants will address these issues by discussing the research questions and theoretical concerns that first led them to explore digital methods, and by sharing some of the substantial intellectual challenges that their application of these methods has implied.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/markjhill/ih-and-dh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###2. Networking Intellectual History: Digital network analysis for historians of science and ideas###
 
-### Support or Contact
+- Moderator: Ylva Söderfeldt, Uppsala University
+- Mark Hill (Helsinki University), “Intellectual Network Analysis”
+- Jacob Orrje (Uppsala University), “Digital tools by and for historians: Using relational databases”
+- Paul Nulty (University College Dublin), “Semantic networks for comparative analysis of essentially contested concepts”
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Key to practitioners of intellectual history is the importance of the context which informed a particular historical actor or idea. The trope that ideas do not emerge in isolation is taken as a truism which requires both detailed engagement with texts, and thorough examinations of context. For the most part, however, methodologically rigorous studies of the networks which actors or ideas were a part of have not been a part of intellectual history (although there are exceptions: see Edmondson and Edelstein’s 2019 Networks of Enlightenment: Digital Approaches to the Republic of Letters). This panel offers some reflections on the ways in which various forms of network analysis can be used to broaden contextual awareness, and thus deepen textual analysis.
+
+###3. (Digital) History of Concepts: How are digital methods changing conceptual history?###
+
+- Moderator: Joris van Eijnatten, Utrecht University
+- Jani Marjanen (University of Helsinki), “The case for quantitative conceptual history”
+- Silke Schwandt (Bielefeld University), “Digital Practices in Conceptual History - Chances and Challenges”
+- Benjamin Martin (Uppsala University) “Digital approaches to global concept histories”
+
+Conceptual history--the study of the way concepts are used and gain meaning in specific historical contexts--has experienced a renaissance of late. What role does DH have to play in the field’s future? Is DH more or less useful for the field’s two main schools (the Bielefeld school of Begriffsgeschichte and the Cambridge school associated with Quentin Skinner)? How might methodological questions for historians of concepts be addressed by thinking about them through the lens of quantitative, digital methodologies? How are questions of method for conceptual historians themselves altered by scholars’ encounter with the formalized, quantitative thinking that digital approaches demand?
+
+###4. How To Do It: Models of Collaboration between Intellectual Historians and Data Scientists###
+
+-Panelists: Katrine Frøkjær Baunvig, Aarhus University; TBC; Ylva Söderberg, Uppsala University; Mikko Tolonen, University of Helsinki
+-Moderator: Mark Hill, University of Helsinki
+
+Few intellectual historians possess the technical know-how to conduct DH research on their own. What models exist for their collaboration with programmers, systemsdevelopers, and data scientists? Does every historian need to start from scratch, or is a consensus emerging on “best practices” for such collaboration? Moving beyond the question “Do intellectual historians need to be able to code?”, this panel will invite participants to share their own experiences of various models of collaboration, discuss the advantages and difficulties of these, and propose alternatives for the future.
+
+Program: **TBC**
