@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Intellectual History and the Digital Humanities: Prospects and Challenges
+# Workshop at DHN2020 (Riga, 16 March 2020)
+
+_Contact persons:_
+Benjamin Martin, Uppsala University, Department of History of Science and Ideas
+benjamin.martin@idehist.uu.se
+Mark J. Hill, Helsinki University, Department of Digital Humanities
+mark.hill@helsinki.fi
 
 You can use the [editor on GitHub](https://github.com/markjhill/ih-and-dh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
