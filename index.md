@@ -15,8 +15,11 @@ A growing number of historians are exploring ways of bringing digital methods to
 In this workshop, we bring together an international group of historians actively engaged with these questions for a half-day of presentations, discussion and debate, focusing on four themes:
 
 **1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion**
+
 **2. Networking Intellectual History: Digital network analysis for historians of science and ideas**
+
 **3. (Digital) History of Concepts: How are digital methods changing conceptual history?**
+
 **4. How To Do It: Models of collaboration between intellectual historians and data scientists**
 
 Discussions of the use of digital methods in a particular humanistic field often become highly technical, with a focus on a particular practical problem or programming-related solution. In this workshop, by contrast, we will combine short presentations on on-going research with ample discussion, in a round-table format, designed to address broader issues about the significance and value of digital methods for the way intellectual historians pursue their field’s most important goals. 
@@ -31,7 +34,8 @@ In what follows, we present these four themes in more detail, and outline the wo
 
 ### 1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion ###
 
-Panelists: Joris van Eijnatten, Utrecht University; Mark Hill, University of Helsinki; Silke Schwandt, Bielefeld University Moderator: Benjamin Martin, Uppsala University
+- Panelists: Joris van Eijnatten, Utrecht University; Mark Hill, University of Helsinki; Silke Schwandt, Bielefeld University 
+- Moderator: Benjamin Martin, Uppsala University
 
 By now, all humanistic fields are affected by the digital revolution, but they are not all affected in the same way. What are the particular features of intellectual history’s encounter with digital sources, digital methods, and the emerging theories, practices, and communities of the digital humanities? How can the research practices of the digital humanities address the existing research agendas of intellectual historians? To what degree is DH stimulating the development of new agendas? In short, what good is DH for intellectual history? What, in turn, do intellectual historians have to offer the broader DH community? In this round-table discussion, participants will address these issues by discussing the research questions and theoretical concerns that first led them to explore digital methods, and by sharing some of the substantial intellectual challenges that their application of these methods has implied.
 
@@ -55,8 +59,8 @@ Conceptual history--the study of the way concepts are used and gain meaning in s
 
 ### 4. How To Do It: Models of Collaboration between Intellectual Historians and Data Scientists ###
 
--Panelists: Katrine Frøkjær Baunvig, Aarhus University; TBC; Ylva Söderberg, Uppsala University; Mikko Tolonen, University of Helsinki
--Moderator: Mark Hill, University of Helsinki
+- Panelists: Katrine Frøkjær Baunvig, Aarhus University; TBC; Ylva Söderberg, Uppsala University; Mikko Tolonen, University of Helsinki
+- Moderator: Mark Hill, University of Helsinki
 
 Few intellectual historians possess the technical know-how to conduct DH research on their own. What models exist for their collaboration with programmers, systemsdevelopers, and data scientists? Does every historian need to start from scratch, or is a consensus emerging on “best practices” for such collaboration? Moving beyond the question “Do intellectual historians need to be able to code?”, this panel will invite participants to share their own experiences of various models of collaboration, discuss the advantages and difficulties of these, and propose alternatives for the future.
 
