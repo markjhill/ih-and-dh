@@ -64,4 +64,18 @@ Conceptual history--the study of the way concepts are used and gain meaning in s
 
 Few intellectual historians possess the technical know-how to conduct DH research on their own. What models exist for their collaboration with programmers, systemsdevelopers, and data scientists? Does every historian need to start from scratch, or is a consensus emerging on “best practices” for such collaboration? Moving beyond the question “Do intellectual historians need to be able to code?”, this panel will invite participants to share their own experiences of various models of collaboration, discuss the advantages and difficulties of these, and propose alternatives for the future.
 
-### Program: **TBC** ###
+### Workshop schedule ###
+
+13:30-13:35        Welcome, introductions
+
+13:35-14:15        Panel 1: What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion
+
+14:20-15:00        Panel 2: Networking Intellectual History: Digital network analysis for historians of science and ideas
+
+15:00-15:20        Coffee break
+
+15:20-16:00        Panel 3: (Digital) History of Concepts: How are digital methods changing conceptual history?
+
+16:05-16:45        Panel 4: How To Do It: Models of Collaboration between Intellectual Historians and Data Scientists
+
+16:45-17:00        Concluding discussion
