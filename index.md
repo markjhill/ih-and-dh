@@ -66,16 +66,16 @@ Few intellectual historians possess the technical know-how to conduct DH researc
 
 ### Workshop schedule ###
 
-13:30-13:35        Welcome, introductions
+**13:30-13:35        Welcome, introductions
 
-13:35-14:15        Panel 1: What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion
+**13:35-14:15        Panel 1: What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion
 
-14:20-15:00        Panel 2: Networking Intellectual History: Digital network analysis for historians of science and ideas
+**14:20-15:00        Panel 2: Networking Intellectual History: Digital network analysis for historians of science and ideas
 
-15:00-15:20        Coffee break
+**15:00-15:20        Coffee break
 
-15:20-16:00        Panel 3: (Digital) History of Concepts: How are digital methods changing conceptual history?
+**15:20-16:00        Panel 3: (Digital) History of Concepts: How are digital methods changing conceptual history?
 
-16:05-16:45        Panel 4: How To Do It: Models of Collaboration between Intellectual Historians and Data Scientists
+**16:05-16:45        Panel 4: How To Do It: Models of Collaboration between Intellectual Historians and Data Scientists
 
-16:45-17:00        Concluding discussion
+**16:45-17:00        Concluding discussion
