@@ -34,7 +34,7 @@ In what follows, we present these four themes in more detail, and outline the wo
 
 ### 1. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion ###
 
-- Panelists: Joris van Eijnatten, Utrecht University; Mark Hill, University of Helsinki; Mats Fridlund, Gothenburg University 
+- Panelists: Joris van Eijnatten, Utrecht University; Ylva Söderfeldt, Uppsala University; Mats Fridlund, Gothenburg University 
 - Moderator: Benjamin Martin, Uppsala University
 
 By now, all humanistic fields are affected by the digital revolution, but they are not all affected in the same way. What are the particular features of intellectual history’s encounter with digital sources, digital methods, and the emerging theories, practices, and communities of the digital humanities? How can the research practices of the digital humanities address the existing research agendas of intellectual historians? To what degree is DH stimulating the development of new agendas? In short, what good is DH for intellectual history? What, in turn, do intellectual historians have to offer the broader DH community? In this round-table discussion, participants will address these issues by discussing the research questions and theoretical concerns that first led them to explore digital methods, and by sharing some of the substantial intellectual challenges that their application of these methods has implied.
