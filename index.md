@@ -52,7 +52,7 @@ Key to practitioners of intellectual history is the importance of the context wh
 
 - Moderator: Joris van Eijnatten, Utrecht University
 - Jani Marjanen (University of Helsinki), “The case for quantitative conceptual history”
-- Ewan Jones (Cambridge/SCAS), TBA
+- Ewan Jones (Cambridge/SCAS), “Data Mining the Eighteenth Century”
 - Katrine Frøkjær Baunvig (Aarhus University), TBA
 
 Conceptual history--the study of the way concepts are used and gain meaning in specific historical contexts--has experienced a renaissance of late. What role does DH have to play in the field’s future? Is DH more or less useful for the field’s two main schools (the Bielefeld school of Begriffsgeschichte and the Cambridge school associated with Quentin Skinner)? How might methodological questions for historians of concepts be addressed by thinking about them through the lens of quantitative, digital methodologies? How are questions of method for conceptual historians themselves altered by scholars’ encounter with the formalized, quantitative thinking that digital approaches demand?
