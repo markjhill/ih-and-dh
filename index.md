@@ -1,3 +1,5 @@
+# ** NOTE - This workshop has been postponed. More information coming soon. ** #
+
 # Intellectual History and the Digital Humanities: Prospects and Challenges #
 ## Workshop at DHN2020 (Riga, 17 March 2020) ##
 
