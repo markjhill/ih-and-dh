@@ -1,9 +1,9 @@
 # ** NOTE - This workshop has been postponed. More information coming soon. ** #
 
 # Intellectual History and the Digital Humanities: Prospects and Challenges #
-## Workshop at DHN2020 (Riga, 17 March 2020) ##
+## Workshop at DHN2020 (Riga, 2020) ##
 
-**Time and location:** March 17th from 13.30 to 17.00 on the 1st floor of the National Library
+**Time and location:** TBC
 
 ### _Contact persons:_ ###
 Benjamin Martin, Uppsala University, Department of History of Science and Ideas (benjamin.martin@idehist.uu.se)
