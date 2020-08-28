@@ -3,7 +3,7 @@
 # Intellectual History and the Digital Humanities: Prospects and Challenges #
 ## Workshop at DHN2020 (Riga, 2020) ##
 
-**Time and location: Tuesday 20 October, virtual and in Riga (if travel permitted) ** TBC
+**Time and location: Tuesday 20 October, virtual and in Riga (if travel permitted) ** More details to follow
 
 ### _Contact persons:_ ###
 Benjamin Martin, Uppsala University, Department of History of Science and Ideas (benjamin.martin@idehist.uu.se)
