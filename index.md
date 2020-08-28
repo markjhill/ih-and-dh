@@ -1,4 +1,4 @@
-# ** NOTE - We ow hope to hold the workshop as a virtual/IRL event - please check your email for details or get in touch if you've not heard anything from us. ** #
+# ** NOTE - We now hope to hold the workshop as both a virtual and in-person event - please check your email for details or get in touch if you've not heard anything from us. ** #
 
 # Intellectual History and the Digital Humanities: Prospects and Challenges #
 ## Workshop at DHN2020 (Riga, 2020) ##
