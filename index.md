@@ -12,21 +12,21 @@ A growing number of historians are exploring ways of bringing digital methods to
 
 In this workshop, we bring together an international group of historians actively engaged with these questions for a half-day of presentations, discussion and debate, focusing on four themes:
 
-**1. Networking Intellectual History: Digital network analysis for historians of science and ideas**
+**1. (Digital) History of Concepts: How are digital methods changing conceptual history?**
 
-**2. (Digital) History of Concepts: How are digital methods changing conceptual history?**
+**2. Networking Intellectual History: Digital network analysis for historians of science and ideas**
 
-**3. What Can DH Do for Intellectual History (and Vice Versa)?: A follow-up panel discussion**
+**3. What Can DH Do for Intellectual History (and Vice Versa)?: A panel discussion**
 
 **4. How To Do It: Models of collaboration between intellectual historians and data scientists**
 
 Discussions of the use of digital methods in a particular humanistic field often become highly technical, with a focus on a particular practical problem or programming-related solution. In this workshop, by contrast, we will combine short presentations on on-going research with ample discussion, in a round-table format, designed to address broader issues about the significance and value of digital methods for the way intellectual historians pursue their field’s most important goals. 
 
-We believe that intellectual history’s encounter with DH has lessons of relevance to a wide range of scholars and DH practitioners outside of the discipline. The interdisciplinary origins of the field of intellectual history, and its overlapping interests with those of literary scholars, political theorists, philosophers, and sociologists ofculture, mean that methodological (and practical) insights from intellectual history’s application of digital methods could make a substantial contribution to the future development of the digital humanities. The goal of our workshop is to begin to collect these insights. We aim to make contributions from this event available to a wide readership through a workshop website and, if circumstances permit, publication in a relevant journal.
+We believe that intellectual history’s encounter with DH has lessons of relevance to a wide range of scholars and DH practitioners outside of the discipline. The interdisciplinary origins of the field of intellectual history, and its overlapping interests with those of literary scholars, political theorists, philosophers, and sociologists of culture, mean that methodological (and practical) insights from intellectual history’s application of digital methods could make a substantial contribution to the future development of the digital humanities. The goal of our workshop is to begin to collect these insights. We aim to make contributions from this event available to a wide readership through a workshop website and, if circumstances permit, publication in a relevant journal.
 
 ## Format ##
 
-The format of the workshop is as follows. After a brief welcome and introduction, the first two seeions will provide set of papers on specific digital approaches relevant to intellectual history. Each of these include three 10-minute presentations, followed by a 15-minute discussion open to members of the audience. Session 3 and 4 will be round-tables. The first of these aims to allow reflection on the previous papers, as well as thinking about how these methods could be taken further by asking "What can digital humanities do for intellectual history?". The final round-table will focus more closely on the practicalities of DH/IH work and collaboration.
+The format of the workshop is as follows. After a brief welcome and introduction, the first two sessions will provide set of papers on specific digital approaches relevant to intellectual history. Each of these includes three 10-minute presentations, followed by a 15-minute discussion open to members of the audience. Session 3 and 4 will be round-tables. The first of these aims to allow reflection on the previous papers, as well as thinking about how these methods could be taken further by asking "What can digital humanities do for intellectual history?". The final round-table will focus more closely on the practicalities of DH/IH work and collaboration.
 
 In what follows we present these four themes in more detail, and outline the workshop program.
 
@@ -60,7 +60,7 @@ By now, all humanistic fields are affected by the digital revolution, but they a
 - Panelists: Ewan Jones, Cambridge University; Paul Nulty, University College Dublin; Ruben Ros, Utrecht University; Mikko Tolonen, University of Helsinki
 - Moderator: Mark Hill, University of Helsinki
 
-Few intellectual historians possess the technical know-how to conduct DH research on their own. What models exist for their collaboration with programmers, systemsdevelopers, and data scientists? Does every historian need to start from scratch, or is a consensus emerging on “best practices” for such collaboration? Moving beyond the question “Do intellectual historians need to be able to code?”, this panel will invite participants to share their own experiences of various models of collaboration, discuss the advantages and difficulties of these, and propose alternatives for the future.
+Few intellectual historians possess the technical know-how to conduct DH research on their own. What models exist for their collaboration with programmers, systems developers, and data scientists? Does every historian need to start from scratch, or is a consensus emerging on “best practices” for such collaboration? Moving beyond the question “Do intellectual historians need to be able to code?”, this panel will invite participants to share their own experiences of various models of collaboration, discuss the advantages and difficulties of these, and propose alternatives for the future.
 
 ### Workshop schedule ###
 
