@@ -32,7 +32,7 @@ In what follows we present these four themes in more detail, and outline the wor
 
 ### 1. (Digital) History of Concepts: How are digital methods changing conceptual history? ###
 
-- Moderator: TBC
+- Moderator: TBA
 - Jani Marjanen (University of Helsinki), “The case for quantitative conceptual history”
 - Ewan Jones (Cambridge/SCAS), “Data Mining the Eighteenth Century”
 - Katrine Frøkjær Baunvig (Aarhus University), TBA
