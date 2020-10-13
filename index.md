@@ -34,7 +34,7 @@ In what follows we present these four themes in more detail, and outline the wor
 
 - Moderator: TBA
 - Jani Marjanen (University of Helsinki), “The case for quantitative conceptual history”
-- Ewan Jones (Cambridge/SCAS), “Data Mining the Eighteenth Century”
+- Ewan Jones (Cambridge University), “Data Mining the Eighteenth Century”
 - Katrine Frøkjær Baunvig (Aarhus University), TBA
 
 Conceptual history--the study of the way concepts are used and gain meaning in specific historical contexts--has experienced a renaissance of late. What role does DH have to play in the field’s future? Is DH more or less useful for the field’s two main schools (the Bielefeld school of Begriffsgeschichte and the Cambridge school associated with Quentin Skinner)? How might methodological questions for historians of concepts be addressed by thinking about them through the lens of quantitative, digital methodologies? How are questions of method for conceptual historians themselves altered by scholars’ encounter with the formalized, quantitative thinking that digital approaches demand?
@@ -48,7 +48,7 @@ Conceptual history--the study of the way concepts are used and gain meaning in s
 
 Key to practitioners of intellectual history is the importance of the context which informed a particular historical actor or idea. The trope that ideas do not emerge in isolation is taken as a truism which requires both detailed engagement with texts, and thorough examinations of context. For the most part, however, methodologically rigorous studies of the networks which actors or ideas were a part of have not been a part of intellectual history (although there are exceptions: see Edmondson and Edelstein’s 2019 Networks of Enlightenment: Digital Approaches to the Republic of Letters). This panel offers some reflections on the ways in which various forms of network analysis can be used to broaden contextual awareness, and thus deepen textual analysis.
 
-### 3. What Can DH Do for Intellectual History (and Vice Versa)?: An introductory panel discussion ###
+### 3. What Can DH Do for Intellectual History (and Vice Versa)?: A panel discussion ###
 
 - Panelists: Joris van Eijnatten, Utrecht University; Ylva Söderfeldt, Uppsala University; Mats Fridlund, Gothenburg University 
 - Moderator: Benjamin Martin, Uppsala University
