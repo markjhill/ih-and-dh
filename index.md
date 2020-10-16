@@ -6,6 +6,8 @@ Benjamin Martin, Uppsala University, Department of History of Science and Ideas 
 
 Mark J. Hill, Helsinki University, Department of Digital Humanities (mark.hill@helsinki.fi)
 
+[Sign up (to receive zoom link) here.](https://docs.google.com/forms/d/e/1FAIpQLSfQHkayXUPgXgD2LhMpWte98rb4SjB-zoAZzsm_7wBpHbzIlg/viewform) 
+
 ## Workshop Description ##
 
 A growing number of historians are exploring ways of bringing digital methods to bear on questions of intellectual history, and such methods do seem to hold real promise for the field. At the same time, these exploratory efforts raise complex questions. How can essentially quantitative methods be made useful for the qualitative questions posed by historians of science and ideas? To what degree can or should intellectual historians simply adopt methods developed for the study of literature, or cultural sociology, or political theory? How should historians make use of and communicate findings made by algorithms that few readers (or fellow historians) understand? What exactly is gained by using DH for the study of intellectual history, and what risks getting lost? What models exist for collaboration between intellectual historians and data scientists, and how can these be improved?
@@ -35,7 +37,6 @@ In what follows we present these four themes in more detail, and outline the wor
 - Moderator: TBA
 - Jani Marjanen (University of Helsinki), “The case for quantitative conceptual history”
 - Ewan Jones (Cambridge University), “Data Mining the Eighteenth Century”
-- Katrine Frøkjær Baunvig (Aarhus University), TBA
 
 Conceptual history--the study of the way concepts are used and gain meaning in specific historical contexts--has experienced a renaissance of late. What role does DH have to play in the field’s future? Is DH more or less useful for the field’s two main schools (the Bielefeld school of Begriffsgeschichte and the Cambridge school associated with Quentin Skinner)? How might methodological questions for historians of concepts be addressed by thinking about them through the lens of quantitative, digital methodologies? How are questions of method for conceptual historians themselves altered by scholars’ encounter with the formalized, quantitative thinking that digital approaches demand?
 
@@ -44,7 +45,6 @@ Conceptual history--the study of the way concepts are used and gain meaning in s
 - Moderator: Ylva Söderfeldt, Uppsala University
 - Mark Hill (Helsinki University), “Intellectual Network Analysis”
 - Paul Nulty (University College Dublin), “Semantic networks for comparative analysis of essentially contested concepts”
-- TBA
 
 Key to practitioners of intellectual history is the importance of the context which informed a particular historical actor or idea. The trope that ideas do not emerge in isolation is taken as a truism which requires both detailed engagement with texts, and thorough examinations of context. For the most part, however, methodologically rigorous studies of the networks which actors or ideas were a part of have not been a part of intellectual history (although there are exceptions: see Edmondson and Edelstein’s 2019 Networks of Enlightenment: Digital Approaches to the Republic of Letters). This panel offers some reflections on the ways in which various forms of network analysis can be used to broaden contextual awareness, and thus deepen textual analysis.
 
