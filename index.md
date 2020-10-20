@@ -6,7 +6,7 @@ Benjamin Martin, Uppsala University, Department of History of Science and Ideas 
 
 Mark J. Hill, Helsinki University, Department of Digital Humanities (mark.hill@helsinki.fi)
 
-[Sign up (to receive zoom link) here.](https://docs.google.com/forms/d/e/1FAIpQLSfQHkayXUPgXgD2LhMpWte98rb4SjB-zoAZzsm_7wBpHbzIlg/viewform) 
+_Update, 20 Oct:_ It is still possible to sign up; please contact the organizers via email!
 
 ## Workshop Description ##
 
@@ -34,7 +34,7 @@ In what follows we present these four themes in more detail, and outline the wor
 
 ### 1. (Digital) History of Concepts: How are digital methods changing conceptual history? ###
 
-- Moderator: TBA
+- Moderator: Benjamin Martin, Uppsala University
 - Jani Marjanen (University of Helsinki), “The case for quantitative conceptual history”
 - Ewan Jones (Cambridge University), “Data Mining the Eighteenth Century”
 
